@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+pdfplumber
+pytesseract
+pdf2image
+gunicorn
